@@ -1,11 +1,2 @@
-- 👋 Hi, I’m @anaynigam
-- 👀 I’m interested in learning
-- 🌱 I’m currently a first year student learning coding.
-
-- ⚡ Fun fact: I like to read books :)).
-- 
-
-<!---
-anaynigam/anaynigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a 3rd-year B.Tech CSE student with a strong passion for Data Science, Machine Learning, and Artificial Intelligence. I love building ML models, and creating practical projects that solve real-world problems.
+On GitHub, I share my experiments and code to track my learning journey, collaborate with others, and continuously expand my skills in AI and Data Science. Always curious, I enjoy tackling challenges and turning ideas into working solutions.
